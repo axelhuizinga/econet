@@ -1,2 +1,2 @@
 # econet
-econet react frontend for wordpress
+econet plugin for wordpress
